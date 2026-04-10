@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Columbus, Ohio, US",
+  "export_job_id": "6ec16e3d-9eb0-42ab-bb3a-da80c79c5aec",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 173432,
+  "location_name": "Columbus",
+  "location_type": "city",
+  "repo_name": "restaurant-verified-email-access-in-columbus-ohio-us-sample-173432",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/173432/beamstation_173432_restaurants-us-oh_SAMPLE_DIST.csv",
+  "sample_pct": 9.92,
+  "sample_records": 66,
+  "sample_sha256": "46a233142fa61135d4f318508f14008b4e6520331b425fca6f718fdb22e6db98",
+  "sample_size_bytes": 280813,
+  "total_records": 665,
+  "updated_at": "2026-04-07T22:45:07.163242+00:00"
+}
